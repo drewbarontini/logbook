@@ -1,0 +1,17 @@
+{
+  "name": "logbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Drew Barontini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.2",
+    "showdown": "^1.7.1"
+  }
+}
